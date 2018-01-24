@@ -31,4 +31,4 @@ function cryptoSquare(message) {
   return result.slice(0, -1);
 }
 
-console.log("'" + cryptoSquare("If man was meant to stay on the ground, god would have given us roots.") + "'")
+console.log("'" + cryptoSquare("If man and women were  meant to stay on the ground, god would have given us roots.") + "'")
